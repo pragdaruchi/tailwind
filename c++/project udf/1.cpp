@@ -1,18 +1,38 @@
 #include<iostream>
 using namespace std;
+void add(int a , int b){
+    int sum = a + b;
+    cout << sum << endl;
+};
+void substration(int a , int b){
+    int sum = a - b;
+    cout << sum << endl;
+};
+void multi(int a , int b){
+    int sum = a * b;
+    cout << sum << endl;
+};
+void divide(int a , int b){
+    int sum = a / b;
+    cout << sum << endl;
+};
+void modul(int a , int b){
+    int sum = a % b;
+    cout << sum << endl;
+};
 void  calculator(){
-    int  num;
 
+    int  num;
     while (num != 0)
     {
-        cout << "pr`ess 1 for +" << endl;
+        cout << "press 1 for +" << endl;
         cout << "press 2 for -" << endl;
         cout << "press 3 for *" << endl;
         cout << "press 4 for /" << endl;
         cout << "press 5 for %" << endl;
         cout << "press 0 for exit" << endl;
     
-        cout << "Enter Your Choice : ";
+        cout << "Enter Your num : ";
         cin >> num;
 
        if (num != 0)
@@ -28,27 +48,27 @@ void  calculator(){
         switch (num)
         {
         case 1:
-            cout << a + b << endl;
+           add(a , b);
             break;
     
             case 2:
-            cout << a - b << endl;
+           substration ( a,b);
             break;
     
             case 3:
-            cout << a * b << endl;
+            multi(a,b);
             break;
     
             case 4:
-            cout << a / b << endl;
+           divide( a,b);
             break;
     
             case 5:
-            cout << a % b << endl;
+            modul(a,b);
             break;
 
         default:         
-            cout << "invalid";
+            cout << "invalid" << endl;
             break;
         }  
        }
@@ -56,9 +76,7 @@ void  calculator(){
        else
        {
         cout << "exit";
-       }
-       
-         
+       }    
     }
 };
 
