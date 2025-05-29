@@ -1,0 +1,197 @@
+DSA - Data Structure and Algorithm.
+
+1.)What Is Data Structure?
+Ans)Special Way Of organizing and Storing Data.
+
+2)What Is Algorithm?
+Ans)An Algorithm is a step by step work.
+
+3)what is programming?
+Ans)A Set of instruction for computer to perform specific task.
+
+4)History of C++?
+Ans)1979 By Bjarne Stroustrup at  bell laboratories of AT&T(American Telephone & Telegraph).
+
+5) Object name:1)Cin
+               2)Cout
+               3)endl
+
+6)operator type?
+1.Arithmetic Operator(+,-,*,/,%)
+2.Relational Operator(<,<=,>,>=,==,!=)
+3.Logical Operator(&&,||,!)
+4.Assignment Operator(=,+=,-=,*=,/=,%=)
+5.Miscellaneous operator(?:,size of ,*,&)
+6.Unary Operator(++,--)
+
+7)Shaps of Flowchart:1.Oval
+                     2.Process(Rectangle)
+                     3.input/output
+                     4.Decision
+                     5.Connector(circle)
+                     6.Comment(})
+
+8)Repetition Structure:
+1.initilization
+2.Condition
+3.iteration
+
+9)Types of Pattern:
+1.Without Space
+2.With Space
+3.Custom
+
+10)What is Array?
+Ans)An Array  is a collection of element of the same data type.
+
+11)For Each loop is known as the "Range-based for loop".
+
+12)size of() operator :
+int 4 bytes
+
+13)2D Array?
+Ans)Table or Matrix with Row and column.
+
+14)What is Function?
+Ans)A Function is block of code that performance a specific task.
+
+15)Types Of Functions?
+1.Built-in Functions
+2.User Defined Functions(UDF)
+
+16)What is Types of UDF?
+ 1.TNRN (Take Nothing Return Nothing)
+ 2.TNRS (Take Nothing Return Something)
+ 3.TSRN (Take Something Return Nothing)
+ 4.TSRS (Take Something Return Something)
+
+17)What is Recursion?
+Ans)Recursion is a Function Calls itself directly or indirectly.
+
+18)What is Pointer?
+Ans)A Pointer is a variable which holds a memory address on another variable (*).
+
+19)What is Array of Pointer?
+Ans)Array of Ponter is multiple pointer.
+
+20)What is Chain of Pointer?
+Ans)A pointer to pointer is a Concept where a pointer variable hold a the address of another variable.
+
+21)What is Reference Variable?
+Ans)A Reference Variable is an alias or Alternative name for an existing variable.
+
+22)Argument types name:
+1)Passing a value or a simple variable
+2)Passing an Array
+3)Passing a Pointer
+4)Passing an Address
+
+23)What is Types of Function Calling ?
+1.Call by Value
+2.Call by Reference(&)
+3.Call by Const Reference
+
+24) OOPS - Object Oriented Programming System.
+
+25)Principle of OOPS:
+ 1)Encapsulation
+ 2)Abstration
+ 3)Inheritance
+ 4)Polymorphism
+
+26) Abstration Types:
+1)Access Modifiers
+ .Private
+ .Public
+ .Protected
+2)Abstart class
+3)Interface
+
+27)Encapsulation Types:
+   1)getter and setter
+   2)destructor
+   3)constructor 
+   4)this keyword
+   5)static keyword
+
+28)inheritance Types:
+     1)single
+     2)multiple
+     3)multilevel
+     4)heirarichial
+     5)hybrid
+
+29)Polymorphism Types:
+   1)method overloading
+   2)method overridding
+   3)operator overloading 
+
+30)What is Data Encapsulation?
+Ans)"Sensitive" data is hidden from users.
+
+31)What is this Keyword?
+Ans)pointers to the current instance of a class.
+
+32)What is Array of Object?
+Ans)Array of Object is a collection of object of the same class.
+
+33)What is Scope Resolution Operator(::)?
+Ans)Specify the context in which a particular identifier is defined.
+
+34)Scope Resolution Operator Type?
+1)Access Global variable
+2)Access static Members
+
+35)What is Static Keyword?
+Ans)So Instance is not required to access the static members.
+
+36)What is Constructor?
+Ans)A Constructor is a special member function in a class that gets executed when a class when a class is instantiated.
+
+37)Types of Constructor?
+Ans)1.Default Constructor
+    2.Parameterized Constructor
+    3.Copy Constructor
+
+38)Type Of Polymorphism : 1.Compile-time
+                          2.Run-time
+
+39)Compile Time:1.Method overloading
+                2.Operator overloading
+
+40)Run Time:1.method overriding
+
+41)What is Static Memory Allocation?
+Ans)Memory allocated during compile time is called static memory (Fixed).
+
+42)Memory Structure Type:
+    1.Heap
+    2.Stack
+    3.Code Section
+    4.Data Section
+
+43)What is Dynamic Memory Allocation?
+Ans)The process of allocating memory at the time of executing is called dynamic Memory Allocation.
+
+44)Heap Operator:
+   1.new(C++)
+   2.malloc(c)
+
+45)C and C++ different :
+
+            C                                    C++
+      1.Dennis Ritchie created the        1.Bjarne Stroustreap created the 
+        C language in the 1970s             C++ language in 1979.
+       
+     2.C doesn’t support object-oriented  2.C++ support object-  
+       programming (OOP).                   oriented programming (OOP).
+
+
+46).How many types of Translator?
+-> 1.Compiler :- Convert whole program into binary.
+   2.Interpreter :- Convert line by line into binary.  
+
+47)DRY-Don't Repeat Yourself.
+
+
+ 
